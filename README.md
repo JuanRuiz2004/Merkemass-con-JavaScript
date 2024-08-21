@@ -18,7 +18,7 @@ mediante este ejercicio tipo "filtro" pondre a prueba mis conocimientos en JavaS
 - Lo primero que se debe de hacer luego de descargar el archivo.zip es abrirlo
 - Luego luego lo que hacemos es abrir con click derecho en el archivo que dice index.html y abrir open with liverserver
 - "aqui la imagen de cual es"
-- 
+
 
 ## Imagenes del producto
 
