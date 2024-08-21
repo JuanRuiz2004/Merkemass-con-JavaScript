@@ -18,15 +18,17 @@ mediante este ejercicio tipo "filtro" pondre a prueba mis conocimientos en JavaS
 - Lo primero que se debe de hacer luego de descargar el archivo.zip es abrirlo
 - Luego luego lo que hacemos es abrir con click derecho en el archivo que dice index.html y abrir open with liverserver
 - "aqui la imagen de cual es"
-- ![imagen1](url completa de la imagen)
+- ![imagen1](https://github.com/JuanRuiz2004/Merkemass-con-JavaScript/blob/main/Captura%20de%20pantalla%202024-08-21%20010247.png)
 
 
 ## Imagenes del producto
-![texto cualquiera por si no carga la imagen](url completa de la imagen)
-![texto cualquiera por si no carga la imagen](url completa de la imagen)
-![texto cualquiera por si no carga la imagen](url completa de la imagen)
-![texto cualquiera por si no carga la imagen](url completa de la imagen)
-![texto cualquiera por si no carga la imagen](url completa de la imagen)
+![texto cualquiera por si no carga la imagen](https://github.com/JuanRuiz2004/Merkemass-con-JavaScript/blob/main/Captura%20de%20pantalla%202024-08-21%20010306.png)
+![texto cualquiera por si no carga la imagen](https://github.com/JuanRuiz2004/Merkemass-con-JavaScript/blob/main/Captura%20de%20pantalla%202024-08-21%20010319.png
+)
+![texto cualquiera por si no carga la imagen](https://github.com/JuanRuiz2004/Merkemass-con-JavaScript/blob/main/Captura%20de%20pantalla%202024-08-21%20010344.png)
+![texto cualquiera por si no carga la imagen](https://github.com/JuanRuiz2004/Merkemass-con-JavaScript/blob/main/Captura%20de%20pantalla%202024-08-21%20010354.png)
+![texto cualquiera por si no carga la imagen](https://github.com/JuanRuiz2004/Merkemass-con-JavaScript/blob/main/Captura%20de%20pantalla%202024-08-21%20010407.png)
+![texto cualquiera por si no carga la imagen](https://github.com/JuanRuiz2004/Merkemass-con-JavaScript/blob/main/Captura%20de%20pantalla%202024-08-21%20010416.png)
 ## Construido con 🛠️
 
 _HTML,CSS Y JavaScript_
